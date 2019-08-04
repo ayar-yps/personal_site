@@ -1,0 +1,9 @@
+name: "ayar-paco-website"
+output_dir: "."
+navbar:
+  title: "Ayar Paco"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
